@@ -1,0 +1,32 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment directories
+env/
+venv/
+*.env
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore IDE project files (IntelliJ, PyCharm, etc.)
+.idea/
+
+# Ignore data files that may be too large for GitHub (can be added manually)
+*.csv
+*.parquet
+*.geojson
+*.json
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore the virtual environment directory (if using one)
+env/
+.venv/
