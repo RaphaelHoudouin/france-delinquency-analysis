@@ -1,7 +1,7 @@
 # Credits
 
 ## Project Author
-- **rhoudouin**: Lead developer and data analyst.
+- Developed by: **rhoudouin** (GitHub:[(https://github.com/rhoudouin)]
 
 ## Data Sources
 - **Delinquency Data**: The statistical data used in this study is sourced from [data.gouv.fr](https://www.data.gouv.fr) and includes commune, departmental, and regional-level delinquency statistics recorded by the police and the national gendarmerie.
