@@ -28,3 +28,6 @@ To run the code and replicate the analysis on your local machine, it is recommen
 1. Set up a virtual environment (optional but recommended):
    ```bash
    python -m venv env
+   
+## Contact
+For any questions or feedback, please contact the project maintainer: **rhoudouin** (GitHub: https://github.com/rhoudouin).
