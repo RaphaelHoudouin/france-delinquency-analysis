@@ -4,7 +4,7 @@
 - Delinquency Data Analysis in France.
   
 ## Project Author
-- Developed by: **RaphaelHoudouin** (GitHub: (https://github.com/RaphaelHoudouin).
+- Developed by: **RaphaelHoudouin** (GitHub: https://github.com/RaphaelHoudouin.
 
 
 
