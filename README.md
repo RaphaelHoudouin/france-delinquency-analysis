@@ -30,4 +30,6 @@ To run the code and replicate the analysis on your local machine, it is recommen
    python -m venv env
    
 ## Contact
-For any questions or feedback, please contact the project maintainer: **rhoudouin** (GitHub: https://github.com/rhoudouin).
+
+For any questions or feedback, please contact the project maintainer: **RaphaelHoudouin**.  
+GitHub: [RaphaelHoudouin](https://github.com/RaphaelHoudouin)
