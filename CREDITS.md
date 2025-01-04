@@ -30,3 +30,9 @@
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any questions or feedback, please contact the project maintainer: **RaphaelHoudouin**.  
+GitHub: [RaphaelHoudouin](https://github.com/RaphaelHoudouin)
+
