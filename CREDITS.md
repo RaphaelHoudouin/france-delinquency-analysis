@@ -4,7 +4,7 @@
 - Delinquency Data Analysis in France.
   
 ## Project Author
-- Developed by: **rhoudouin** (GitHub: https://github.com/rhoudouin).
+- Developed by: **RaphaelHoudouin** (GitHub: (https://github.com/RaphaelHoudouin).
 
 ## Data Sources
 - **Delinquency Data**: The statistical data used in this study is sourced from [data.gouv.fr](https://www.data.gouv.fr) and includes commune, departmental, and regional-level delinquency statistics recorded by the police and the national gendarmerie.
